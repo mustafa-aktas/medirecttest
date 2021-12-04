@@ -21,7 +21,9 @@ namespace LightsOut_Mustafa_Aktas
 
         public Form1()
         {
-            this._gameService = RestService.For<IGameService>("https://localhost:44318");
+            var address = System.Configuration.ConfigurationManager.AppSettings["serverAddress"];
+
+            this._gameService = RestService.For<IGameService>(address);
 
             InitializeComponent();
             resetBoardAsync();
