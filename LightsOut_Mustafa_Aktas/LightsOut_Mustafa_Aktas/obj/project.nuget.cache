@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGIEKcuMS75u36r5RYziV71hJi+PzbZuDn1WdgHoRXBb+pg++2acS/ioESM2hvfGYU4o7pIOh+VHsyKKmgQZGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11mus\\source\\repos\\LightsOut_Mustafa_Aktas\\LightsOut_Mustafa_Aktas\\LightsOut_Mustafa_Aktas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11mus\\.nuget\\packages\\refit\\6.1.15\\refit.6.1.15.nupkg.sha512",
+    "C:\\Users\\11mus\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
